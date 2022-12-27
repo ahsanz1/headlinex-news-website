@@ -49,12 +49,12 @@ const Footer = () => {
         <span className="text-sm text-center text-slate-300">
           Built as a result of{"  "}
           <a
-            href="https://www.sreejit.dev"
+            href="https://ahsan-zafar-portfolio.vercel.app"
             target="_blank"
             rel="noreferrer"
             className="transition duration-700 hover:underline text-slate-100 hover:text-white"
           >
-            @Sreejit
+            @ahsanz
           </a>{" "}
           tinkering with{" "}
           <a
